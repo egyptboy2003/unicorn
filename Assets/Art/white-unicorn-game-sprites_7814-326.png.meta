@@ -1,0 +1,796 @@
+fileFormatVersion: 2
+guid: b2ca269354b91aa4f89fb79f8761b42e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4230347021602187863
+    second: white-unicorn-game-sprites_7814-326_0
+  - first:
+      213: 3461943880613413787
+    second: white-unicorn-game-sprites_7814-326_1
+  - first:
+      213: 3162897621202399276
+    second: white-unicorn-game-sprites_7814-326_2
+  - first:
+      213: 5673595834288522248
+    second: white-unicorn-game-sprites_7814-326_3
+  - first:
+      213: -1016146221626183237
+    second: white-unicorn-game-sprites_7814-326_4
+  - first:
+      213: -7464065194882761346
+    second: white-unicorn-game-sprites_7814-326_5
+  - first:
+      213: 8212605815345174604
+    second: white-unicorn-game-sprites_7814-326_6
+  - first:
+      213: -3953322615638774592
+    second: white-unicorn-game-sprites_7814-326_7
+  - first:
+      213: -3134114484842961687
+    second: white-unicorn-game-sprites_7814-326_8
+  - first:
+      213: 4027037058123103557
+    second: white-unicorn-game-sprites_7814-326_9
+  - first:
+      213: 2660337684319421238
+    second: white-unicorn-game-sprites_7814-326_16
+  - first:
+      213: 4276318086462511243
+    second: white-unicorn-game-sprites_7814-326_17
+  - first:
+      213: 2383026770648987757
+    second: white-unicorn-game-sprites_7814-326_18
+  - first:
+      213: -2996586015807229359
+    second: white-unicorn-game-sprites_7814-326_19
+  - first:
+      213: 6424859637780243879
+    second: white-unicorn-game-sprites_7814-326_20
+  - first:
+      213: -1519716547067446866
+    second: white-unicorn-game-sprites_7814-326_21
+  - first:
+      213: 2892314275238908878
+    second: white-unicorn-game-sprites_7814-326_22
+  - first:
+      213: 290860587678768380
+    second: white-unicorn-game-sprites_7814-326_26
+  - first:
+      213: -4934770298589367318
+    second: white-unicorn-game-sprites_7814-326_27
+  - first:
+      213: 489221249117550229
+    second: white-unicorn-game-sprites_7814-326_28
+  - first:
+      213: -1383249579614084970
+    second: white-unicorn-game-sprites_7814-326_29
+  - first:
+      213: -5081700165176731908
+    second: white-unicorn-game-sprites_7814-326_30
+  - first:
+      213: -730208868608955130
+    second: white-unicorn-game-sprites_7814-326_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: white-unicorn-game-sprites_7814-326_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 268
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a515c41cc9ca45c0800000000000000
+      internalID: -4230347021602187863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-unicorn-game-sprites_7814-326_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 268
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93cc440e9b4b0030800000000000000
+      internalID: 3461943880613413787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-unicorn-game-sprites_7814-326_2
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 268
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -22}
+        - {x: -3, y: -20}
+        - {x: 2, y: -20}
+        - {x: 1, y: -32}
+        - {x: 15, y: -32}
+        - {x: 16, y: -31}
+        - {x: 16, y: -29}
+        - {x: 13, y: -26}
+        - {x: 12, y: -20}
+        - {x: 13, y: -19}
+        - {x: 12, y: -15}
+        - {x: 15, y: -11}
+        - {x: 15, y: -9}
+        - {x: 13, y: -7}
+        - {x: 13, y: -6}
+        - {x: 18, y: -7}
+        - {x: 23, y: -3}
+        - {x: 24, y: 1}
+        - {x: 21, y: 3}
+        - {x: 21, y: 5}
+        - {x: 22, y: 5}
+        - {x: 24, y: 7}
+        - {x: 24, y: 15}
+        - {x: 22, y: 16}
+        - {x: 22, y: 18}
+        - {x: 20, y: 20}
+        - {x: 18, y: 19}
+        - {x: 12, y: 19}
+        - {x: 11, y: 20}
+        - {x: 8, y: 20}
+        - {x: 6, y: 21}
+        - {x: 1, y: 15}
+        - {x: -1, y: 15}
+        - {x: -4, y: 12}
+        - {x: -4, y: 10}
+        - {x: -7, y: 7}
+        - {x: -7, y: 0}
+        - {x: -5, y: -3}
+        - {x: -8, y: -2}
+        - {x: -10, y: -3}
+        - {x: -11, y: -1}
+        - {x: -16, y: 1}
+        - {x: -22, y: -5}
+        - {x: -22, y: -9}
+        - {x: -21, y: -10}
+        - {x: -22, y: -11}
+        - {x: -24, y: -11}
+        - {x: -24, y: -18}
+        - {x: -22, y: -17}
+        - {x: -20, y: -19}
+        - {x: -19, y: -19}
+        - {x: -18, y: -18}
+        - {x: -15, y: -18}
+        - {x: -17, y: -21}
+        - {x: -17, y: -24}
+        - {x: -18, y: -25}
+        - {x: -18, y: -32}
+        - {x: -3, y: -32}
+        - {x: -2, y: -31}
+        - {x: -2, y: -30}
+        - {x: -4, y: -28}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: c2072b4f0aed4eb20800000000000000
+      internalID: 3162897621202399276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-unicorn-game-sprites_7814-326_3
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 268
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -23}
+        - {x: -3, y: -20}
+        - {x: 2, y: -20}
+        - {x: 2, y: -32}
+        - {x: 15, y: -32}
+        - {x: 16, y: -31}
+        - {x: 13, y: -25}
+        - {x: 13, y: -23}
+        - {x: 12, y: -22}
+        - {x: 12, y: -16}
+        - {x: 15, y: -12}
+        - {x: 15, y: -11}
+        - {x: 14, y: -10}
+        - {x: 15, y: -8}
+        - {x: 13, y: -6}
+        - {x: 16, y: -6}
+        - {x: 18, y: -7}
+        - {x: 22, y: -5}
+        - {x: 24, y: 1}
+        - {x: 22, y: 3}
+        - {x: 23, y: 4}
+        - {x: 23, y: 6}
+        - {x: 24, y: 7}
+        - {x: 24, y: 17}
+        - {x: 21, y: 20}
+        - {x: 18, y: 20}
+        - {x: 17, y: 19}
+        - {x: 12, y: 19}
+        - {x: 11, y: 20}
+        - {x: 8, y: 20}
+        - {x: 6, y: 21}
+        - {x: 1, y: 15}
+        - {x: -1, y: 15}
+        - {x: -4, y: 12}
+        - {x: -4, y: 10}
+        - {x: -7, y: 6}
+        - {x: -7, y: 1}
+        - {x: -5, y: -3}
+        - {x: -9, y: -3}
+        - {x: -14, y: 0}
+        - {x: -16, y: 0}
+        - {x: -21, y: -3}
+        - {x: -22, y: -6}
+        - {x: -22, y: -9}
+        - {x: -21, y: -10}
+        - {x: -22, y: -11}
+        - {x: -24, y: -11}
+        - {x: -24, y: -18}
+        - {x: -22, y: -18}
+        - {x: -21, y: -17}
+        - {x: -20, y: -18}
+        - {x: -15, y: -18}
+        - {x: -13, y: -16}
+        - {x: -13, y: -17}
+        - {x: -16, y: -19}
+        - {x: -17, y: -22}
+        - {x: -17, y: -25}
+        - {x: -18, y: -26}
+        - {x: -18, y: -32}
+        - {x: -3, y: -32}
+        - {x: -3, y: -29}
+        - {x: -4, y: -27}
+        - {x: -3, y: -25}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 80447ede959acbe40800000000000000
+      internalID: 5673595834288522248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-unicorn-game-sprites_7814-326_4
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 268
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1bd1c256ce5e1f0800000000000000
+      internalID: -1016146221626183237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-unicorn-game-sprites_7814-326_5
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 268
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7df7a660405a6890800000000000000
+      internalID: -7464065194882761346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-unicorn-game-sprites_7814-326_6
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 267
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48d4ff0a7909f170800000000000000
+      internalID: 8212605815345174604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-unicorn-game-sprites_7814-326_7
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 267
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc2554d60af229c0800000000000000
+      internalID: -3953322615638774592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-unicorn-game-sprites_7814-326_8
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 268
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e467853b736184d0800000000000000
+      internalID: -3134114484842961687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-unicorn-game-sprites_7814-326_9
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 268
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54df2c24ed8e2e730800000000000000
+      internalID: 4027037058123103557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-unicorn-game-sprites_7814-326_16
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 91
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633c170670b6be420800000000000000
+      internalID: 2660337684319421238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-unicorn-game-sprites_7814-326_17
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 90
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b881d2a84a8885b30800000000000000
+      internalID: 4276318086462511243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-unicorn-game-sprites_7814-326_18
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 113
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6877cad836321120800000000000000
+      internalID: 2383026770648987757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-unicorn-game-sprites_7814-326_19
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 135
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15238ec25ecf966d0800000000000000
+      internalID: -2996586015807229359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-unicorn-game-sprites_7814-326_20
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 131
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5e2a9dccfa92950800000000000000
+      internalID: 6424859637780243879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-unicorn-game-sprites_7814-326_21
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 112
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9f2cc2ad1e8eae0800000000000000
+      internalID: -1519716547067446866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-unicorn-game-sprites_7814-326_22
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 89
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3186a5280932820800000000000000
+      internalID: 2892314275238908878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-unicorn-game-sprites_7814-326_26
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 14
+        width: 51
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc11c7d928590400800000000000000
+      internalID: 290860587678768380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-unicorn-game-sprites_7814-326_27
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 14
+        width: 54
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3be681f8c248bb0800000000000000
+      internalID: -4934770298589367318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-unicorn-game-sprites_7814-326_28
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 14
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -28, y: 29}
+        - {x: -28, y: -29}
+        - {x: 28, y: -29}
+        - {x: 28, y: 29}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596793252201ac600800000000000000
+      internalID: 489221249117550229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-unicorn-game-sprites_7814-326_29
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 14
+        width: 57
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -28.5, y: 29}
+        - {x: -28.5, y: -22}
+        - {x: 28.5, y: -22}
+        - {x: 28.5, y: 29}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690e46b06d5bdcce0800000000000000
+      internalID: -1383249579614084970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-unicorn-game-sprites_7814-326_30
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 14
+        width: 58
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -29, y: 29}
+        - {x: -29, y: -22}
+        - {x: 29, y: -22}
+        - {x: 29, y: 29}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6d89faf9c2a79b0800000000000000
+      internalID: -5081700165176731908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-unicorn-game-sprites_7814-326_31
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 14
+        width: 59
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -29.5, y: -23}
+        - {x: -29.5, y: 29}
+        - {x: 29.5, y: 29}
+        - {x: 29.5, y: -23}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d29be17e6cdd5f0800000000000000
+      internalID: -730208868608955130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

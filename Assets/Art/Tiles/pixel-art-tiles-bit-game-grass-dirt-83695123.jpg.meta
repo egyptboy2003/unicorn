@@ -1,0 +1,1034 @@
+fileFormatVersion: 2
+guid: b74edbb93aa059945a7d479275c03123
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7533418258340111826
+    second: pixel-art-tiles-bit-game-grass-dirt-83695123_0
+  - first:
+      213: -8615527856712010163
+    second: pixel-art-tiles-bit-game-grass-dirt-83695123_1
+  - first:
+      213: 8300159336918256047
+    second: pixel-art-tiles-bit-game-grass-dirt-83695123_2
+  - first:
+      213: -2342624199792698472
+    second: pixel-art-tiles-bit-game-grass-dirt-83695123_3
+  - first:
+      213: -6364893020857570682
+    second: pixel-art-tiles-bit-game-grass-dirt-83695123_4
+  - first:
+      213: -9193857241502342896
+    second: pixel-art-tiles-bit-game-grass-dirt-83695123_5
+  - first:
+      213: -5438701221243793525
+    second: pixel-art-tiles-bit-game-grass-dirt-83695123_6
+  - first:
+      213: -5850424274728106358
+    second: pixel-art-tiles-bit-game-grass-dirt-83695123_7
+  - first:
+      213: -6956173658707933801
+    second: pixel-art-tiles-bit-game-grass-dirt-83695123_8
+  - first:
+      213: -4449160457136373203
+    second: pixel-art-tiles-bit-game-grass-dirt-83695123_9
+  - first:
+      213: 8621553292006475960
+    second: pixel-art-tiles-bit-game-grass-dirt-83695123_10
+  - first:
+      213: -2063662841669698989
+    second: pixel-art-tiles-bit-game-grass-dirt-83695123_11
+  - first:
+      213: -6945445779144781440
+    second: pixel-art-tiles-bit-game-grass-dirt-83695123_12
+  - first:
+      213: -7152155197600730998
+    second: pixel-art-tiles-bit-game-grass-dirt-83695123_13
+  - first:
+      213: 3953157712457401650
+    second: pixel-art-tiles-bit-game-grass-dirt-83695123_14
+  - first:
+      213: 7763054765583041373
+    second: pixel-art-tiles-bit-game-grass-dirt-83695123_15
+  - first:
+      213: 2373587844100789107
+    second: pixel-art-tiles-bit-game-grass-dirt-83695123_16
+  - first:
+      213: -8450654659036233089
+    second: pixel-art-tiles-bit-game-grass-dirt-83695123_17
+  - first:
+      213: -7456094054219680038
+    second: pixel-art-tiles-bit-game-grass-dirt-83695123_18
+  - first:
+      213: 4412540902337096879
+    second: pixel-art-tiles-bit-game-grass-dirt-83695123_19
+  - first:
+      213: -2389295168153739917
+    second: pixel-art-tiles-bit-game-grass-dirt-83695123_20
+  - first:
+      213: -4777030714847813582
+    second: pixel-art-tiles-bit-game-grass-dirt-83695123_21
+  - first:
+      213: -5616119824360186770
+    second: pixel-art-tiles-bit-game-grass-dirt-83695123_22
+  - first:
+      213: -2888718501923431541
+    second: pixel-art-tiles-bit-game-grass-dirt-83695123_23
+  - first:
+      213: 614184325495571417
+    second: pixel-art-tiles-bit-game-grass-dirt-83695123_24
+  - first:
+      213: -1241310620850459578
+    second: pixel-art-tiles-bit-game-grass-dirt-83695123_25
+  - first:
+      213: -1255227554579929034
+    second: pixel-art-tiles-bit-game-grass-dirt-83695123_26
+  - first:
+      213: -1674973990039842237
+    second: pixel-art-tiles-bit-game-grass-dirt-83695123_27
+  - first:
+      213: -1931468437069951735
+    second: pixel-art-tiles-bit-game-grass-dirt-83695123_28
+  - first:
+      213: 8031101880932642547
+    second: pixel-art-tiles-bit-game-grass-dirt-83695123_29
+  - first:
+      213: -6187425030169642088
+    second: pixel-art-tiles-bit-game-grass-dirt-83695123_30
+  - first:
+      213: -2060539979212061360
+    second: pixel-art-tiles-bit-game-grass-dirt-83695123_31
+  - first:
+      213: -7336047366695279713
+    second: pixel-art-tiles-bit-game-grass-dirt-83695123_32
+  - first:
+      213: -1975157889838169690
+    second: pixel-art-tiles-bit-game-grass-dirt-83695123_33
+  - first:
+      213: -5073312955299174003
+    second: pixel-art-tiles-bit-game-grass-dirt-83695123_34
+  - first:
+      213: -1370214152745658741
+    second: pixel-art-tiles-bit-game-grass-dirt-83695123_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pixel-art-tiles-bit-game-grass-dirt-83695123_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 673
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 50}
+        - {x: -50, y: -38}
+        - {x: -46, y: -38}
+        - {x: -46, y: -44}
+        - {x: -43, y: -44}
+        - {x: -43, y: -47}
+        - {x: -36, y: -47}
+        - {x: -36, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 50}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5edc00ef31c8860800000000000000
+      internalID: 7533418258340111826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-tiles-bit-game-grass-dirt-83695123_1
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 673
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46b234bf0f7f6880800000000000000
+      internalID: -8615527856712010163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-tiles-bit-game-grass-dirt-83695123_2
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 673
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa98728d0f6103370800000000000000
+      internalID: 8300159336918256047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-tiles-bit-game-grass-dirt-83695123_3
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 673
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b5f19b3b35d7fd0800000000000000
+      internalID: -2342624199792698472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-tiles-bit-game-grass-dirt-83695123_4
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 673
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 50}
+        - {x: -37, y: 47}
+        - {x: -43, y: 47}
+        - {x: -43, y: 44}
+        - {x: -47, y: 44}
+        - {x: -47, y: 37}
+        - {x: -50, y: 37}
+        - {x: -50, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 50}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68aeb6a258b5ba7a0800000000000000
+      internalID: -6364893020857570682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-tiles-bit-game-grass-dirt-83695123_5
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 673
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011a99ccc8bd86080800000000000000
+      internalID: -9193857241502342896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-tiles-bit-game-grass-dirt-83695123_6
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 544
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fc7440e0ad584b0800000000000000
+      internalID: -5438701221243793525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-tiles-bit-game-grass-dirt-83695123_7
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 544
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8642877e1e1fcea0800000000000000
+      internalID: -5850424274728106358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-tiles-bit-game-grass-dirt-83695123_8
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 544
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795c8cca9e4b67f90800000000000000
+      internalID: -6956173658707933801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-tiles-bit-game-grass-dirt-83695123_9
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 544
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d220cab03286142c0800000000000000
+      internalID: -4449160457136373203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-tiles-bit-game-grass-dirt-83695123_10
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 544
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b845264a09e5a770800000000000000
+      internalID: 8621553292006475960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-tiles-bit-game-grass-dirt-83695123_11
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 544
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35aba1a44956c53e0800000000000000
+      internalID: -2063662841669698989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-tiles-bit-game-grass-dirt-83695123_12
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 415
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081d657ccd1dc9f90800000000000000
+      internalID: -6945445779144781440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-tiles-bit-game-grass-dirt-83695123_13
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 415
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a807b84ddb07ebc90800000000000000
+      internalID: -7152155197600730998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-tiles-bit-game-grass-dirt-83695123_14
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 415
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2358e18aeff6cd630800000000000000
+      internalID: 3953157712457401650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-tiles-bit-game-grass-dirt-83695123_15
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 415
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d530b7acd29ebbb60800000000000000
+      internalID: 7763054765583041373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-tiles-bit-game-grass-dirt-83695123_16
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 415
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37310d2819da0f020800000000000000
+      internalID: 2373587844100789107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-tiles-bit-game-grass-dirt-83695123_17
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 415
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: 50}
+        - {x: -50, y: 50}
+        - {x: -50, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 37}
+        - {x: 48, y: 37}
+        - {x: 48, y: 43}
+        - {x: 44, y: 43}
+        - {x: 44, y: 46}
+        - {x: 38, y: 46}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: f7245a07c5e39ba80800000000000000
+      internalID: -8450654659036233089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-tiles-bit-game-grass-dirt-83695123_18
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 286
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6755636f1a68890800000000000000
+      internalID: -7456094054219680038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-tiles-bit-game-grass-dirt-83695123_19
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 286
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac2fa0729e7c3d30800000000000000
+      internalID: 4412540902337096879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-tiles-bit-game-grass-dirt-83695123_20
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 286
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d93ae14b487ded0800000000000000
+      internalID: -2389295168153739917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-tiles-bit-game-grass-dirt-83695123_21
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 286
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230ad58efd394bdb0800000000000000
+      internalID: -4777030714847813582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-tiles-bit-game-grass-dirt-83695123_22
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 286
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c5bf476c88f02b0800000000000000
+      internalID: -5616119824360186770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-tiles-bit-game-grass-dirt-83695123_23
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 286
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b51ccd3d539e7d0800000000000000
+      internalID: -2888718501923431541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-tiles-bit-game-grass-dirt-83695123_24
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 157
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3c6c3d365068800800000000000000
+      internalID: 614184325495571417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-tiles-bit-game-grass-dirt-83695123_25
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 157
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 50}
+        - {x: -50, y: -50}
+        - {x: 38, y: -50}
+        - {x: 38, y: -48}
+        - {x: 44, y: -48}
+        - {x: 44, y: -44}
+        - {x: 47, y: -44}
+        - {x: 47, y: -38}
+        - {x: 50, y: -38}
+        - {x: 50, y: 50}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ce94c219af5cee0800000000000000
+      internalID: -1241310620850459578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-tiles-bit-game-grass-dirt-83695123_26
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 157
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6382bf88039849ee0800000000000000
+      internalID: -1255227554579929034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-tiles-bit-game-grass-dirt-83695123_27
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 157
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 50}
+        - {x: -50, y: -38}
+        - {x: -47, y: -38}
+        - {x: -47, y: -45}
+        - {x: -45, y: -45}
+        - {x: -45, y: -46}
+        - {x: -44, y: -46}
+        - {x: -44, y: -48}
+        - {x: -40, y: -48}
+        - {x: -40, y: -49}
+        - {x: -37, y: -49}
+        - {x: -37, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 50}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34218abc70c41c8e0800000000000000
+      internalID: -1674973990039842237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-tiles-bit-game-grass-dirt-83695123_28
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 157
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 50}
+        - {x: -50, y: -50}
+        - {x: 37, y: -50}
+        - {x: 37, y: -48}
+        - {x: 42, y: -48}
+        - {x: 42, y: -45}
+        - {x: 45, y: -45}
+        - {x: 45, y: -43}
+        - {x: 47, y: -43}
+        - {x: 47, y: -38}
+        - {x: 50, y: -38}
+        - {x: 50, y: 50}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d019990bb0235e0800000000000000
+      internalID: -1931468437069951735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-tiles-bit-game-grass-dirt-83695123_29
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 157
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe26ff2c94347f60800000000000000
+      internalID: 8031101880932642547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-tiles-bit-game-grass-dirt-83695123_30
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 28
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bb06aa7b9d12aa0800000000000000
+      internalID: -6187425030169642088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-tiles-bit-game-grass-dirt-83695123_31
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 28
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055039d5ecd7763e0800000000000000
+      internalID: -2060539979212061360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-tiles-bit-game-grass-dirt-83695123_32
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 28
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9320bcb9cf113a90800000000000000
+      internalID: -7336047366695279713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-tiles-bit-game-grass-dirt-83695123_33
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 28
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1c2e03d54d694e0800000000000000
+      internalID: -1975157889838169690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-tiles-bit-game-grass-dirt-83695123_34
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 28
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8961092fb8f799b0800000000000000
+      internalID: -5073312955299174003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-tiles-bit-game-grass-dirt-83695123_35
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 28
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86d16fdc750cfce0800000000000000
+      internalID: -1370214152745658741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
