@@ -12,6 +12,7 @@ public class Unicorn : MonoBehaviour
     public float acceleration;
     public float jumpForce;
     public int carrots;
+    public int ogCarrots;
     private bool isDead;
 
     // Start is called before the first frame update
@@ -20,6 +21,8 @@ public class Unicorn : MonoBehaviour
         sRender = GetComponent<SpriteRenderer>();
         anim = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>();
+
+        ogCarrots = GameObject.FindGameObjectsWithTag("Carrot").Length;
     }
 
     private void Update()
@@ -72,7 +75,14 @@ public class Unicorn : MonoBehaviour
     {
         anim.SetTrigger("dieTrigger");
         isDead = true;
-        yield return new WaitForSeconds(3);
-        SceneManager.LoadScene(0);
+        yield return new WaitForSeconds(2);
+        SceneManager.LoadSceneAsync(SceneManager.GetActiveScene().name, LoadSceneMode.Single);
+    }
+
+    public void Win()
+    {
+        Time.timeScale = 0;
+        MenuManagement menuManagement = GameObject.Find("GUI").GetComponent<MenuManagement>();
+        menuManagement.toggleWinMenu();
     }
 }

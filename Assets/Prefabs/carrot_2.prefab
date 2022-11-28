@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 5272519981434512986}
   m_Layer: 0
   m_Name: carrot_2
-  m_TagString: Untagged
+  m_TagString: Carrot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -48,6 +48,7 @@ SpriteRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -97,7 +98,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   bounceMag: 0.1
   bounceSpeed: 3
-  carrots: 0
+  carrotText: {fileID: 0}
+  _bite: {fileID: 8300000, guid: 791be52e25e655740bf872f2cb27c097, type: 3}
 --- !u!61 &5272519981434512986
 BoxCollider2D:
   m_ObjectHideFlags: 0

@@ -9,17 +9,17 @@ public class Snake : MonoBehaviour
 
     private float patrolDirection = 1;
     private Vector3 ogPos;
-    private float waitDuration = 3;
-    private float currentWait;
     private SpriteRenderer sRender;
     private Rigidbody2D rb;
-    private Animator anim;
 
     // Start is called before the first frame update
     void Start()
     {
+        foreach (GameObject snakeObj in GameObject.FindGameObjectsWithTag("Snake"))
+        {
+            Physics2D.IgnoreCollision(GetComponent<Collider2D>(), snakeObj.GetComponent<Collider2D>());
+        }
         sRender = GetComponent<SpriteRenderer>();
-        anim = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>();
 
         ogPos = transform.position;
