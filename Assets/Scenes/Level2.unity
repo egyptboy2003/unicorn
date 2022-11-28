@@ -20974,31 +20974,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 4998574754475187940, guid: bfc0d250701430841a26085627199676,
-        type: 3}
-      propertyPath: Loop
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4998574754475187940, guid: bfc0d250701430841a26085627199676,
-        type: 3}
-      propertyPath: m_Pitch
-      value: 1.67
-      objectReference: {fileID: 0}
-    - target: {fileID: 4998574754475187940, guid: bfc0d250701430841a26085627199676,
-        type: 3}
-      propertyPath: m_Volume
-      value: 0.01
-      objectReference: {fileID: 0}
-    - target: {fileID: 4998574754475187940, guid: bfc0d250701430841a26085627199676,
-        type: 3}
-      propertyPath: m_audioClip
-      value: 
-      objectReference: {fileID: 8300000, guid: 791be52e25e655740bf872f2cb27c097, type: 3}
-    - target: {fileID: 4998574754475187940, guid: bfc0d250701430841a26085627199676,
-        type: 3}
-      propertyPath: m_PlayOnAwake
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 6147030499482184186, guid: bfc0d250701430841a26085627199676,
         type: 3}
       propertyPath: m_RootOrder
