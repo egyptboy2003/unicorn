@@ -29,6 +29,7 @@ public class LevelSelect : MonoBehaviour
         // TODO: Level 10 Catchup
         levels.Add("caei", "Level11"); // clover, star, eggs, snowflake
         levels.Add("deba", "Level12"); // tree, eggs, rainbow, star
+        levels.Add("ageh", "Level13"); // star, panda, eggs, pinata
     }        
 
     public void ButtonPush(GameObject button)
