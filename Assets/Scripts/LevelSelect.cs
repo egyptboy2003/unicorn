@@ -22,14 +22,17 @@ public class LevelSelect : MonoBehaviour
         levels.Add("cgbf", "Level3"); // clover, panda, rainbow, pumpkin
         levels.Add("ahde", "Level4"); // star, pinata, tree, eggs
         levels.Add("bahi", "Level5"); // rainbow, star, pinata, snowflake
+
         levels.Add("dabc", "Level6"); // tree, star, rainbow, clover
         levels.Add("hdea", "Level7"); // pinata, tree, eggs, star
         levels.Add("ahdf", "Level8"); // star, pinata, tree, pumpkin
         levels.Add("fdha", "Level9"); // pumpkin, tree, pinata, star
-        // TODO: Level 10 Catchup
+        levels.Add("dhbf", "Level10"); // tree, pinata, rainbow, pumpkin
+
         levels.Add("caei", "Level11"); // clover, star, eggs, snowflake
         levels.Add("deba", "Level12"); // tree, eggs, rainbow, star
         levels.Add("ageh", "Level13"); // star, panda, eggs, pinata
+        levels.Add("begc", "Level14"); // rainbow, eggs, panda, clover
     }        
 
     public void ButtonPush(GameObject button)
