@@ -68,6 +68,15 @@ public class Unicorn : MonoBehaviour
             // TODO: Sound
             StartCoroutine(Respawn());
             Physics2D.IgnoreCollision(collision.collider, collision.otherCollider);
+        } 
+    }
+
+    private void OnTriggerEnter2D(Collider2D collider)
+    {
+        if (collider.gameObject.CompareTag("KillBox"))
+        {
+            // TODO: Sound
+            StartCoroutine(Respawn());
         }
     }
 

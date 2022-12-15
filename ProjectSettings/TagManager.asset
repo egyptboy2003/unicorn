@@ -8,6 +8,7 @@ TagManager:
   - Carrot
   - score
   - Unicorn
+  - KillBox
   layers:
   - Default
   - TransparentFX
