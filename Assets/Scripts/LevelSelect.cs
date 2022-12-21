@@ -34,9 +34,13 @@ public class LevelSelect : MonoBehaviour
         levels.Add("ageh", "Level13"); // star, panda, eggs, pinata
         levels.Add("begc", "Level14"); // rainbow, eggs, panda, clover
         levels.Add("acgi", "Level15"); // star, clover, panda, snowflake
-
+        
         levels.Add("abcd", "Level16"); // star, rainbow, clover, tree
+        levels.Add("dcbf", "Level17"); // tree, clover, rainbow, pumpkin
+        levels.Add("heab", "Level18"); // pinata, eggs, star, rainbow
+        levels.Add("faid", "Level19"); // pumpkin, star, snowflake, tree
     }        
+
 
     public void ButtonPush(GameObject button)
     {
