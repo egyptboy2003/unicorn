@@ -39,6 +39,12 @@ public class LevelSelect : MonoBehaviour
         levels.Add("dcbf", "Level17"); // tree, clover, rainbow, pumpkin
         levels.Add("heab", "Level18"); // pinata, eggs, star, rainbow
         levels.Add("faid", "Level19"); // pumpkin, star, snowflake, tree
+        levels.Add("dcba", "Level20"); // tree, clover, rainbow, star
+
+        levels.Add("ifda", "Level21"); // snowflake, pumpkin, tree, star
+        levels.Add("aged", "Level22"); // star, panda, eggs, tree
+        levels.Add("fead", "Level23"); // pumpkin, eggs, star, tree
+        levels.Add("bich", "Level24"); // rainbow, snowflake, clover, pinata
     }        
 
 
